@@ -1,8 +1,8 @@
-# loop2019-20sem1
+# Loop2019-20 Semester 1
 
 Solutions to Coding Problems from various coding platforms by student members.
 
-# How to make contributions?
+## How to make contributions?
 
 1. Create your fork for this repository
 2. It is usually recommended to create new branches for every new contribution and keep the main branch in sync with the original repository
@@ -11,7 +11,7 @@ Solutions to Coding Problems from various coding platforms by student members.
 5. Upload your code
 6. Create a pull request to merge the branch and we will look into it!
 
-# Problem Statements are picked from -
+## Problem Statements are picked from
 
 1. HackerRank
 2. LeetCode
@@ -21,6 +21,10 @@ Solutions to Coding Problems from various coding platforms by student members.
 6. TopCoder
 7. InterviewBit, etc.
 
-Happy Coding!
+## Index
+* [Github Cheatsheet](gg.md)
+* [Math and logic](math&logic)
 
 
+
+Happy Coding:sunflower:!
