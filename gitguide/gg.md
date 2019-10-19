@@ -11,7 +11,7 @@ For pricing plans choose Free.
 
 __Installing git on your machine:__   
 (Required if you want to use git commands from your local machine)
-- Go to the [git-scm](https://git-scm.com/) and download the appropriate installer.
+- Go to the [git-scm website](https://git-scm.com/) and download the appropriate installer.
 - After downloading click on the file to begin set up.
 - Finish setup by keeping default options.
 
