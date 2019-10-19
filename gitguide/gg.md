@@ -15,12 +15,17 @@ __Installing git on your machine:__
 - After downloading click on the file to begin set up.
 - Finish setup by keeping default options.
 
+### Making Pull request
+__Forking a Repository__
+After choosing a repository to contribute to, you need to fork it i.e. create a copy of it.
+Forks are normally used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
+![](fork.gif)
 
 
 ## Github Lingo
 - __Repository:__  A repository is essentially a project. For example _loop2019-20sem1_ is the name of this repository.
 
-- __Pull Request :__ A pull request or pr lets people know of changes added to a repository. After changes are "committed" to a file a pr is created. This pr is then checked by concerned parties, in this case us, to review and accept the changes.
+- __PR :__ A pull request lets people know of changes added to a repository. After changes are "committed" to a file a pr is created. This pr is then checked by concerned parties, in this case us, to review and accept the changes.
 
 
 
