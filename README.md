@@ -22,7 +22,7 @@ Solutions to Coding Problems from various coding platforms by student members.
 7. InterviewBit, etc.
 
 ## Index
-* [Github Cheatsheet](gg.md)
+* [Github Cheatsheet](gitguide/gg.md)
 * [Math and logic](math&logic)
 
 
