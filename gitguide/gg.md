@@ -21,13 +21,39 @@ __Forking a Repository__
 After choosing a repository to contribute to, you need to fork it i.e. create a copy of it.
 Forks are normally used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.  
 
-![](fork.gif)
+![](fork.gif)  
+
+__Create a Branch__
+
+It's recommended to create a new branch as a branch isolates development work without affecting other branches in the repository.  
+
+![](branch.gif)  
+
+__Contributing__
+
+Solutions can be contributed in many ways, for our repository we require a solution file to be uploaded.
+You can contribute online through Github's Website, through your laptop directly using a Command Line Interface or tools like Github Desktop, some code editors even allow importing and working with Github projects directly.
+
+Here's how to add a file using the Github website  
+
+![](contri.gif)   
+
+__Creating a Pull Request__
+
+Once you are satisfied with the changes you've made you can create a pull request to merge your work with the original repository.   
+The decision to merge a PR is taken by the maintainers of that repository.  
+
+![](PR.gif)
+
 
 
 ## Github Lingo
 - __Repository:__  A repository is essentially a project. For example _loop2019-20sem1_ is the name of this repository.
 
-- __PR :__ A pull request lets people know of changes added to a repository. After changes are "committed" to a file a pr is created. This pr is then checked by concerned parties, in this case us, to review and accept the changes.
+- __PR :__ A pull request lets people know of changes added to a repository. After changes are "committed" to a file a PR is created. This PR is then checked by concerned parties, in this case us, to review and accept the changes.
+
+- __Fork :__ A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+
 
 
 
