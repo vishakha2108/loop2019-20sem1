@@ -17,8 +17,10 @@ __Installing git on your machine:__
 
 ### Making Pull request
 __Forking a Repository__
+
 After choosing a repository to contribute to, you need to fork it i.e. create a copy of it.
-Forks are normally used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
+Forks are normally used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.  
+
 ![](fork.gif)
 
 
