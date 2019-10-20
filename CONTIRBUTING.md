@@ -5,11 +5,12 @@ Follow the steps mentioned in [README.md](README.md)
 - #### Author and Problem name
 Mention the name of the author, you and the name of the problem statement your solution pertains to.    
 
-'''java
+```java
 /*
-Problem: Counting Valleys  
-Author: Neha   
- */'''
+Problem: Counting Valleys
+Author: Name
+*/
+```
 
 - Avoid making changes to README.md, CONTRIBUTING.md and gitguide, if you believe a change is required in any of these files create an issue and we will look into it.
 
