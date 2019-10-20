@@ -21,13 +21,13 @@ __Forking a Repository__
 After choosing a repository to contribute to, you need to fork it i.e. create a copy of it.
 Forks are normally used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.  
 
-![](fork.gif)  
+![](gif/fork.gif)  
 
 __Create a Branch__
 
 It's recommended to create a new branch as a branch isolates development work without affecting other branches in the repository.  
 
-![](branch.gif)  
+![](gif/branch.gif)  
 
 __Contributing__
 
@@ -36,14 +36,14 @@ You can contribute online through Github's Website, through your laptop directly
 
 Here's how to add a file using the Github website  
 
-![](contri.gif)   
+![](gif/contri.gif)   
 
 __Creating a Pull Request__
 
 Once you are satisfied with the changes you've made you can create a pull request to merge your work with the original repository.   
 The decision to merge a PR is taken by the maintainers of that repository.  
 
-![](PR.gif)
+![](gif/PR.gif)
 
 
 

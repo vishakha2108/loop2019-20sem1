@@ -2,6 +2,9 @@
 
 Solutions to Coding Problems from various coding platforms by student members.
 
+Before you get started read [Contribution Guidelines](CONTRIBUTING.md) and this file.
+
+
 ## How to make contributions?
 
 1. Create your fork for this repository
@@ -22,6 +25,7 @@ Solutions to Coding Problems from various coding platforms by student members.
 7. InterviewBit, etc.
 
 ## Index
+* [Contribution Guidelines](CONTRIBUTING.md)
 * [Github Cheatsheet](gitguide/gg.md)
 * [Math and logic](math&logic)
 
